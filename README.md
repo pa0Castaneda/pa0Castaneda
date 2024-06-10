@@ -5,7 +5,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hola 👋, Soy Paola</h1></summary>
+    <summary><h1 style="display: inline-block">Holaa😀, Soy Paola 💗</h1></summary>
   </ul>
 </div>
 
@@ -13,23 +13,27 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-<h2>Acerca de mí 😃</h2>
+<h2>Datos acerca de mí 😊</h2>
 <!--Intro start-->
 <p align="left">
 💻 Estudiante de programación
   
-📝 Cada día intentando mejorar mis conocimientos
+📝 Cada día aprendo más cosas
 
-✏️ Aprendiendo distintos lenguajes de programación
+✨ No soy buena, pero intento mejorar
+
+✏️ Me encantaría aprender mas lenguajes de programación y poder entenderlos muy bien
+
+😌 Soy una persona amable y buena onda; cualquier duda, yo puedo ayudarte
 
 </p>
 <!--Intro end-->
 <br>
-<h2 >Tecnologías conocidas👨🏻‍💻</h2>
+<h2 >Lenguajes conocidos👨🏻‍💻</h2>
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,java,php,css,html,mysql,git,github,vscode,ps&perline=12" />
+    <img src="https://skillicons.dev/icons?i=cpp,java,php,css,html,mysql,github,vscode,&perline=12" />
   </a>
 </p>
 
