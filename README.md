@@ -32,12 +32,7 @@
     <img src="https://skillicons.dev/icons?i=cpp,java,php,css,html,mysql,git,github,vscode,ps&perline=12" />
   </a>
 </p>
-<br><br>
-<!--- snake -->
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
+
 <br><br>
 🤝🏻 &nbsp;Contactáme
 <br>
